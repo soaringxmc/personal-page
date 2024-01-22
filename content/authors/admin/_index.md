@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Maochao Xiao is a PhD student in Aeronautics and Space Engineering at Sapienza University of Rome. He shows interest in exploiting machine learning for turbulence modeling in large eddy simulation (LES) and Reynolds-averaged Navier-Stokes (RANS), leveraging graphics processing units (GPUs) for computational efficiency. His recent activities focus on the development of robust wall models for large-eddy simulation based on reinforcement learning (RL).
+Maochao Xiao is a PhD student in Aeronautics and Space Engineering at Sapienza University of Rome. He shows interest in exploiting machine learning for turbulence modeling in large eddy simulation (LES) and Reynolds-averaged Navier-Stokes (RANS), while leveraging graphics processing units (GPUs) for computational efficiency. His recent activities focus on the development of robust wall models for large-eddy simulation based on reinforcement learning (RL).
 {style="text-align: justify;"}

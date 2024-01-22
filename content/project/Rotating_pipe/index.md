@@ -1,6 +1,6 @@
 ---
 title: Drag Reduction in Rotating Pipe Flow
-summary: Direct numerical simulations are performed to investigate the drag reduction in rotating pipe flow up to Re𝜏 ≈ 3000
+summary: Direct numerical simulations are performed to investigate the drag reduction and near-wall coherent structures in rotating pipe flow up to Re𝜏 ≈ 3000
 tags:
   - Flow
 date: '2023-01-24T00:00:00Z'

@@ -1,6 +1,6 @@
 ---
 title: Iced-Wing Aerodynamics
-summary: Unsteady simulations are conducted to unveil the separated flow around iced wings.
+summary: Scale-resolving simulations are conducted to unveil the separated flow around iced wings and iced high-lift configurations.
 tags:
   - Flow
 date: '2023-01-24T00:00:00Z'
@@ -32,5 +32,4 @@ image:
 
 ---
 
-A shear-layer-adapted subgrid length scale is applied to the improved delayed detached eddy simulation using the shear stress transport background model (SST-IDDES). The aim is to assess the combination of the wall-modeled LES (WMLES) branch of the SST-IDDES with the new length scale in computing attached flows, as
-well as to assess the effect of the new length scale when it is applied to the SST-IDDES for mitigating the “grey area” issue through initiating a dramatic drop of eddy viscosity in the initial region of a free shear layer. The assessment is conducted through simulations of a turbulent boundary layer, a fully developed channel flow, a near-sonic turbulent jet and a backward-facing step flow. The results provide strong evidence for the conclusion that the SST-IDDES combined with the new length scale performs the same as the original SST-IDDES when its WMLES branch is applied to compute the resolved parts of an attached flow, and the combination helps mitigate the “grey area” issue of the SST-IDDES and accurately represent the K-H instability in the initial region of a free shear layer. In addition, the superiority is particularly remarkable for the simulations with coarse grids.
+High-fidelity simulations are conducted to accrurately predict the aerodynamics around iced wings and to unveil the dominant flow mechnisms in iced wing flows. We leverage proportional orthogonal decomposition (POD) to extract the dominant flow structures, and analyze the vortex motions in ice-induced separated shear layer and the acoustic resonance around iced slats. Also, we inspect the effects of wing tip vortex and end-wall interactions.
