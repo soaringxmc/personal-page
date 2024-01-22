@@ -35,8 +35,8 @@ summary: A shear layer adapted subgrid length scale is applied to enhance the de
 
 tags: []
 
-# Display this page in the Featured widget?
-featured: true
+# Display this page in the Featured widgts.
+featured: false
 
 # Custom links (uncomment lines below)
 links:

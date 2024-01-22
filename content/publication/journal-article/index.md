@@ -2,15 +2,16 @@
 title: 'Enhanced Prediction of Three-Dimensional Finite Iced Wing Separated Flow Near Stall'
 authors:
 - admin
-- Robert Ford
+- Yufei Zhang
+- Feng Zhou
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2015-09-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-10-17T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,17 +31,17 @@ tags:
 - Source Themes
 featured: true
 
-# links:
+links:
 # - name: ""
 #   url: ""
 # url_pdf: ''
-# url_code: ''
-# url_dataset: ''
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-# url_source: ''
-# url_video: ''
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
