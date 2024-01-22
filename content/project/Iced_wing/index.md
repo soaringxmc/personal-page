@@ -1,5 +1,5 @@
 ---
-title: Iced Wing Aerodynamics
+title: Iced-Wing Aerodynamics
 summary: Unsteady simulations are conducted to unveil the separated flow around iced wings.
 tags:
   - Flow

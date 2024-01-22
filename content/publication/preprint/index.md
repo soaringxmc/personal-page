@@ -13,7 +13,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article"]
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name
 publication: ""
 publication_short: ""
 
