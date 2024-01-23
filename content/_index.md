@@ -211,17 +211,17 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-02-01'
-          description: CFL3D-modified features hybrid RANS/LES simulation, leveraging an anisotropic minimum-dissipation IDDES model (AMD-IDDES). Inviscid flux scheme is a blended central/upwind scheme. Enhanced I/O capabilities include flow field averaging, animating and sampling. The modified version is available on request. Please check the author's GitHub for more open-source codes.
-          icon: coursera
+          description: CFL3D-enhanced features hybrid RANS/LES simulation, leveraging an anisotropic minimum-dissipation IDDES model (AMD-IDDES). Inviscid flux scheme is a blended central/upwind scheme. Enhanced I/O capabilities include flow field averaging, animating and sampling. The modified version is available on request. Please check the author's GitHub for more open-source codes.
+          icon: 
           organization: Available on request
           organization_url: ''
-          title: CFL3D-modified
+          title: CFL3D-enhanced
           url: https://github.com/soaringxmc/CFL3D
         - certificate_url: ''
           date_end: ''
           date_start: '2022-12-01'
           description: CaNS (Canonical Navier-Stokes) is a code for massively-parallel numerical simulations of fluid flows. It aims at solving any fluid flow of an incompressible, Newtonian fluid that can benefit from a FFT-based solver for the second-order finite-difference Poisson equation in a 3D Cartesian grid.
-          icon: edx
+          icon: 
           organization: Public
           organization_url: ''
           title: CaNS
@@ -230,7 +230,7 @@ sections:
           date_end: ''
           date_start: '2022-06-01'
           description: STREAmS (Supersonic TuRbulEnt Accelerated navier–stokes Solver) performs Direct Numerical Simulations of compressible turbulent flows in Cartesian geometry solving the unsteady, fully compressible Navier-Stokes equations for a perfect gas.
-          icon: datacamp
+          icon: 
           organization: Public
           organization_url: ''
           title: 'STREAmS-2'

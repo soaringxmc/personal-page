@@ -44,7 +44,7 @@ education:
       year: 2019
     - course: B.Eng. in Flight Vehicle Propulsion Engineering
       institution: Northwestern Polytechnical University
-      year: 2008
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -113,9 +113,22 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
+
+  - icon: database
+    icon_pack: fas
+    link: http://newton.dma.uniroma1.it/
+
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCuXLNXRl7wSEPcAlYlxwy6Q
+
+  - icon: bilibili
+    icon_pack: fab
+    link: https://space.bilibili.com/3546615428156141/video
+
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_europass.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

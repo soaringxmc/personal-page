@@ -7,7 +7,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-17T00:00:00Z"
+date: "2022-10-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,17 +31,19 @@ tags:
 - Source Themes
 featured: true
 
-links:
+
+# links:
 # - name: ""
 #   url: ""
-# url_pdf: ''
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0142727X22001357?casa_token=NT-0FoF2dGwAAAAA:aWMhVwakUlmMTo9qAVVZQzasZ_vinqGVpjdLIZ-eovtgf165qRP0-iL3ctVHFwfMx5RK1v2uqKen   # if blank url, put journal-article.pdf in the current directory
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_video: 'https://youtube.com'
+# url_source: ''
+# url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -65,12 +67,12 @@ projects: []
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

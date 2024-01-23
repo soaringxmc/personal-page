@@ -80,3 +80,11 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
+
+[[buttons]]
+  id = "weixin"
+  url = "weixin://dl/send?text={title}%20{url}"
+  title = "Weixin"
+  icon_pack = "fab"
+  icon = "weixin"
+  enable = true

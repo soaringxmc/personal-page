@@ -1,5 +1,5 @@
 ---
-title: Reinforcement Learning of Wall Models for Large-Eddy Simulation
+title: Reinforcment Learning for Robust Wall Models in Large-Eddy Simulation
 summary: Update soon...
 tags:
   - WMLES
@@ -8,9 +8,9 @@ date: '2023-01-24T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+# image:
+#   caption: Photo by rawpixel on Unsplash
+#   focal_point: Smart
 
 # links:
 #   - icon: twitter

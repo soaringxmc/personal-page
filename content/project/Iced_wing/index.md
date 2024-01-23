@@ -9,9 +9,9 @@ date: '2023-01-24T00:00:00Z'
 # external_link: https://example.org
 external_link: ''
 
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+# image:
+#   caption: Photo by Toa Heftiba on Unsplash
+#   focal_point: Smart
 
 # links:
 #   - icon: twitter
