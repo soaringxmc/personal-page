@@ -1,3 +1,10 @@
+# Customizing and Deploying a Hugo Website
+The customization includes three steps if done locally:
+- Modify Source Files: Edit your Hugo site's content or design. 
+- Test Locally with Hugo: Ensure Hugo is installed. In your site's root directory, run hugo server. Visit http://localhost:1313/ in a browser to review changes.
+- Deploy with GitHub and Netlify: Push edits to your GitHub repository. Set up your site on Netlify to auto-deploy from GitHub. Netlify detects new commits, builds with Hugo, and publishes updates.
+If you edit the source files directly on GitHub (not recommended due to slowness of text editing and website updating), the first two steps are not needed.
+
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/templates/)
